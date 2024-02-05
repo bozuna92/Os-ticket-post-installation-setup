@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
+
 # Os-ticket-post-installation-setup
 
 To sign into os-ticket as admin you may use this link  http://localhost/osTicket/scp/login.php  
